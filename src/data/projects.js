@@ -232,7 +232,7 @@ const projects = [
   {
   title: "Driver Drowsiness Detection & Alert System",
   subtitle: "AI-Powered Real-Time Driver Safety & Active Alert Mechanism",
-  category: "AI & Embedded",
+  category: "Embedded",
   overview:
     "A computer vision–based driver safety system that detects drowsiness in real time using facial landmark analysis and automatically activates a water spray mechanism via submersible pump to alert the driver and prevent accidents.",
 
