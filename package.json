@@ -2,7 +2,7 @@
   "name": "enoshportfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://enoshyaffat.github.io/enoshportfolio",
+  "homepage": "https://enoshyaffat.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
