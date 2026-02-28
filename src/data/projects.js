@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Course Seat Finder",
     subtitle: "Mobile-First Android Seat Availability App",
-    category: "Web",
+    category: "app",
     overview:
       "A React + Capacitor Android application that provides real-time course seat availability by integrating directly with Google Sheets.",
 
