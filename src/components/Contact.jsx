@@ -12,7 +12,7 @@ function Contact() {
         </a>
 
         <a
-          href="https://wa.me/91XXXXXXXXXX"
+          href="https://wa.me/919961538757"
           target="_blank"
           rel="noopener noreferrer"
         >
