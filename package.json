@@ -2,9 +2,8 @@
   "name": "enoshportfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://enoshyaffat.github.io/enoshporfolio",
+  "homepage": "https://enoshyaffat.github.io/enoshportfolio",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,12 +12,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
-
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/react": "^19.2.7",
