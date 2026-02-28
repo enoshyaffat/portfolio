@@ -227,7 +227,43 @@ const projects = [
 
     highlights:
       "Built using a complete audio processing pipeline demonstrating AI-based biomedical signal analysis."
-  }
+  },
+
+  {
+  title: "Driver Drowsiness Detection & Alert System",
+  subtitle: "AI-Powered Real-Time Driver Safety & Active Alert Mechanism",
+  category: "AI & Embedded",
+  overview:
+    "A computer vision–based driver safety system that detects drowsiness in real time using facial landmark analysis and automatically activates a water spray mechanism via submersible pump to alert the driver and prevent accidents.",
+
+  features: [
+    "Real-Time Face & Eye Detection",
+    "Eye Aspect Ratio (EAR) Based Drowsiness Detection",
+    "Continuous Live Webcam Monitoring",
+    "Intelligent Alert System (Buzzer + Water Spray)",
+    "Automatic Water Spray Using Submersible Pump",
+    "Hardware-Controlled Alert Mechanism",
+    "Low-Latency Real-Time Processing",
+    "Continuous Frame-by-Frame Fatigue Monitoring"
+  ],
+
+  tech: [
+    "Python",
+    "OpenCV",
+    "Dlib",
+    "Facial Landmark Detection",
+    "CNN / Haar Cascade",
+    "Arduino",
+    "Relay Module",
+    "Submersible Pump",
+    "NumPy",
+    "Real-Time Video Processing"
+  ],
+
+  highlights:
+    "Designed as a real-world accident-prevention system combining AI-based computer vision with embedded hardware control. When prolonged eye closure is detected, the system triggers both an alarm and a submersible pump-based water spray mechanism to instantly wake the driver."
+}
+  
 
 ];
 

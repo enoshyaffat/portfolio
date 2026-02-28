@@ -31,11 +31,11 @@ function Hero() {
 
         <div className="hero-stats">
           <div>
-            <h4>8+</h4>
+            <h4>9+</h4>
             <p>Major Projects</p>
           </div>
           <div>
-            <h4>AI + IoT</h4>
+            <h4>Software & AI + IoT</h4>
             <p>Specialization</p>
           </div>
         </div>
